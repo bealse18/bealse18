@@ -2,11 +2,11 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Poem 6 (J 281: 1861/1935)</Title>
+                <title>Poem 6 (J 281: 1861/1935)</title> <!-- start tag and end tag don't match -->
                 <author>Emily Dickinson</author>
             </titleStmt>
             <publicationStmt>
-                <p>Fascicle 16: Dickinson's variants and published versions<p>
+                <p>Fascicle 16: Dickinson's variants and published versions</p> <!-- end tag didn't contain / -->
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -16,7 +16,7 @@
                     </msIdentifier>
                 </msDesc>
                 <bibl>
-                    <ref target="http://www.cs.virginia.edu/~ajf2j/emily/">
+                    <ref target="http://www.cs.virginia.edu/~ajf2j/emily/"> </ref> <!-- there was no ending tag -->
                 </bibl>
             </sourceDesc>
         </fileDesc>
