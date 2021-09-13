@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<front>
+    <head><line>MARY RUSSELL MITFORD</line> 
+        <line>Transcript of notebook of Mary Russell Mitford</line> <!-- seb: end tag was missing / -->
+        contained in the British Museum (P 24834 : C.60.b.7.)</head> <!-- seb: head was capitalized -->
+    <p>The note-book has a printed title page <q>The Literary Pocket-Book; or, Companion
+        for the lover of Nature &amp; <!-- seb: no naked ampersands allowed  --> Art, 1819</q>. The size of the notebook is 13 x 8
+        cm.</p> <!-- seb: p was missing / in end tag -->
+    <p>Miss Mitford's notes begin on 1 January 1819 and end 11 March 1823.</p>
+    <p>The transcript of which this is a copy is in the possession of the Public Library,
+        Reading, Berks, England. A photostat copy of the MS is also available at that
+        library. Copyright presumably rests with the British Museum.</p>
+    <p><emph rend="underline">July 1955</emph>.</p>
+    
+    <pb n="iv"/>
+    <p>
+        <label>
+            RPL Local<lb/>Collection<lb/>
+            <milestone unit="line"/> Class <add><handShift resp="#black_pen_RCLnb"/>B/TU/MIT</add> <lb/> <!-- seb: <handShift resp= was missing quotation -->
+            <milestone unit="line"/> Acc. No. <add><handShift resp="#blue_pen_RCLnb"/>L
+                7088</add><lb/> <!-- seb: missing / for self closing element -->
+            <milestone unit="line/> Acc. Date"> <!-- seb: was missing quotation and right arrow bracket --></milestone> <add><handShift resp="#blue_pen_RCLnb"
+            />-</add>
+            <milestone unit="box"/> <!-- seb: needed / to become self closing element -->
+        </label>
+    </p>
+
+<body>
+        <div type="entry">
+            <head>
+                <date when="1819-01-01"/>
+            </head>
+            <p>At <placeName>Farley Hill</placeName> <!-- seb: connected the place and Name elements to undo tangled tags -->--Happy day--<persName ref="#Dickinson_Mrs"
+                >Mrs. D</persName>'s singing--<title>Where'er you walk</title>--<persName
+                    ref="#Dickinson_Charles">Mr. D</persName>'s reading--<title>Count
+                        Ugolino.</title></p> <!-- seb: tags p and title were tangled -->
+        </div>
+    
+</body>
+</front><!-- seb: the tags body and front were tangled -->
+    

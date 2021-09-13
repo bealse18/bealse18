@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <teiHeader>
+<text> <!-- seb: needed a start tag -->
+<teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Poem 6 (J 281: 1861/1935)</title> <!-- start tag and end tag don't match -->
@@ -27,12 +28,12 @@
                 <listRef>
                     <ptr target="xml/1606variant.xml"/>
                     <ptr target="img/1606/fs1606a.jpg"/>
-                    <ptr target "img/1606/fs1606b.jpg"/>
+                    <ptr target="img/1606/fs1606b.jpg"/> <!-- seb: missing = -->
                     <ptr target="img/1606/1606fha.jpg"/>
                     <ptr target="img/1606/1606fhb.jpg"/>
                     <ptr target="img/1606/1606fhMap.jpg"/>
-                    <ptr target="img/1606/fs1606Map.jpg">
-                </ListRef>
+                    <ptr target="img/1606/fs1606Map.jpg"/> <!-- seb: end tag was missing / -->
+                </listRef> <!-- seb: end tag was misspelled -->
             </div>
             <div type="witness">
                 <listWit>
