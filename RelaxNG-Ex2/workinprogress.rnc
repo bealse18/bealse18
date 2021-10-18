@@ -1,0 +1,15 @@
+start = root
+root = element xml 
+xml = element xml {Label , date , intro , label , letter , locationName , paragraph , salutation , sentence , summary}
+Label = element Lable {text , empty}
+date = element date {month , year } 
+month = element month {text , empty}
+date = element date {text , empty}
+locationName = element locationName {text , empty}
+letter = element letter {intro , sentence , salutation} 
+intro = element intro {text , empty}
+sentence = element sentence {n* , feeling , adj}
+feeling = element feeling {text , empty} 
+adj = element adj {text , empty} 
+
+

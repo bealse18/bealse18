@@ -1,0 +1,13 @@
+start=xmlm  
+xml=element xml {poem}
+poem=element poem {stanza+}
+stanza=element stanza {n, nature}
+n = attribute n {xsd:integer}
+nature=element nature {n+}
+n = attribute n {xsd:integer}
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+     
+     <note>COPYRIGHT 1908, BY FRIENDSHIP CALENDAR CO. NEW . BRITAIN, CONN.</note>
+     <date when="-01-30"></date> 
+     <fw>January 30, 1909. Saturday</fw>
+     <figure></figure> <!-- drawing of man in bed with alarm clock -->
+    <note>E.R.B. "That damned old clock gives me a <!-- illegible -->  </note>
+     <note><!-- illegible --> where its' dark</note>
+     <note>It likes the fun, but the </note>
+      <body>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>
+
+<text> 
+
+<note>COPYRIGHT 1908, BY FRIENDSHIP CALENDAR CO. NEW BRITAIN, CONN</note>
+   <fw>March 12, 1909. Friday</fw>
+   <figure></figure> <!-- drawing of girl in snowshoes with gloves, and winter clothes -->
+<note>MOLLY ON SNOWSHOES THAT MR. WEIR GOT. PRETTY PICTURE IS IT NOT?!</note>
+   <note>Love from Molly.</note>
+   <forename>Mary</forename>
+
+
+
+</text>
